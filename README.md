@@ -100,4 +100,4 @@ Contributions to improve Variable Inspector are welcome! Please feel free to sub
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under GPL 3.0
