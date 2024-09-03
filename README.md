@@ -17,7 +17,7 @@ Variable Inspector is a powerful Python module designed to provide detailed insi
 Clone this repository or copy the `variable_inspector.py` file into your project directory.
 
 ```bash
-git clone https://github.com/yourusername/variable-inspector.git
+git clone https://github.com/redonkuless82/variable-inspector.git
 ```
 
 ## Usage
